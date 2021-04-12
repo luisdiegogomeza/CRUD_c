@@ -1,0 +1,24 @@
+﻿  mysql_c.cpp
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(12,100): error C2660: 'mysql_real_connect': la función no acepta 7 argumentos
+C:\Program Files\MySQL\MySQL Server 8.0\include\mysql.h(458,16): message : vea la declaración de 'mysql_real_connect'
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(14,5): error C2601: 'insert_productos': las definiciones de funciones locales no son válidas
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(9): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(56,5): error C2601: 'update_marcas': las definiciones de funciones locales no son válidas
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(9): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(83,5): error C2601: 'update_productos': las definiciones de funciones locales no son válidas
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(9): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(151,5): error C2601: 'delete_marcas': las definiciones de funciones locales no son válidas
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(9): message : esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(26,13): error C3861: 'getline': no se encontró el identificador
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(31,13): error C3861: 'getline': no se encontró el identificador
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(44,13): error C2065: 'q_estado': identificador no declarado
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(45,18): error C2065: 'q_estado': identificador no declarado
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(67,13): error C3861: 'getline': no se encontró el identificador
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(70,13): error C2065: 'q_estado': identificador no declarado
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(71,18): error C2065: 'q_estado': identificador no declarado
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(110,17): error C3861: 'getline': no se encontró el identificador
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(115,17): error C3861: 'getline': no se encontró el identificador
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(139,13): error C2065: 'q_estado': identificador no declarado
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(140,18): error C2065: 'q_estado': identificador no declarado
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(163,13): error C2065: 'q_estado': identificador no declarado
+C:\Users\LUIS\OneDrive\Escritorio\virus 0.2\mysql_c\mysql_c\mysql_c.cpp(164,18): error C2065: 'q_estado': identificador no declarado
